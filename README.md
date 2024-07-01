@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Fernando, a former full stack software developer. 
+I work as a Security Engineer, "Securing the Applications Driving Our World" at [Checkmarx](https://checkmarx.com)!
+
+- 🌱 I’m currently preparing for CSSLP exam.
+- I've started with [Prepare for the ISC2 Certified Secure Software Lifecycle Professional (CSSLP) Certification](https://www.linkedin.com/learning/paths/prepare-for-the-isc2-certified-secure-software-lifecycle-professional-csslp-certification) linkedin course.
+
 <!--
 **fjsnogueira/fjsnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
