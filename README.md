@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 I'm Fernando, a former full stack software developer. 
-I work as a Security Architect, "Securing the Applications Driving Our World" at [Checkmarx](https://checkmarx.com)!
+I worked as a Security Architect, "Securing the Applications Driving Our World" at [Checkmarx](https://checkmarx.com)!
+I work as a Senior Software Engineer - Security at Phillip Morris International.
 
-- 🌱 I’m currently preparing for CSSLP exam.
+- 🌱 I’m just passed the ISC2 CSSLP exam.
 - I've started with [Prepare for the ISC2 Certified Secure Software Lifecycle Professional (CSSLP) Certification](https://www.linkedin.com/learning/paths/prepare-for-the-isc2-certified-secure-software-lifecycle-professional-csslp-certification) linkedin course.
 
 <!--
